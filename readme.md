@@ -14,7 +14,7 @@ Team members:
 [Poster](https://github.com/lefthandwriter/QuoraQuestionPairs/blob/master/Poster.pdf)
 
 ## Code
-### Feature Extraction
-There are two folders: posner and wordnet. 
+### 1. Feature Extraction
+See the features folder.
 
 The main script, tfidfPOSbasic_w2v.py generates the final word vectors and saves the full features to a .csv file.
