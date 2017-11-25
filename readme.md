@@ -19,4 +19,4 @@ Team members:
 ### 1. Feature Extraction
 See the features folder.
 
-The main script, tfidfPOSbasic_w2v.py generates the final word vectors and saves the full features to a .csv file.
+The main script, 'tfidfPOSbasic_w2v.py' generates the final word vectors and saves the full features to a .csv file.
