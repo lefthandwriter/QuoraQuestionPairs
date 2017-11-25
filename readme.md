@@ -12,6 +12,7 @@ Team members:
 
 ## Project Reports
 [Poster](https://github.com/lefthandwriter/QuoraQuestionPairs/blob/master/Poster.pdf)
+[Final Report](https://github.com/lefthandwriter/QuoraQuestionPairs/blob/master/FinalReport.pdf)
 
 ## Code
 ### 1. Feature Extraction
